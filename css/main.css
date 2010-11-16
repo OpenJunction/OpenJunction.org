@@ -10,7 +10,7 @@ body,div,html,head,ul,li,h1{
     border-bottom: 1px solid #c8dae8;
 }
 
-#topContainer h1{
+#topContainer h1 {
     size: 200%;
     margin-top: 100px;
 }
@@ -27,7 +27,7 @@ body,div,html,head,ul,li,h1{
     list-style-type: none;
     text-align: left;
     width: 500px;
-    margin-left: 20px;
+    margin-left: 30px;
 }
 
 #featureList img{ 
@@ -57,14 +57,14 @@ body,div,html,head,ul,li,h1{
     top: 856px;
 }
 #tryButton { 
-    left: 620px;
+    left: 650px;
 }
 #learnButton { 
     left: 860px;
 }
 
 #logo { 
-    margin-top: 70px;
+    margin-top: 50px;
 }
 
 
