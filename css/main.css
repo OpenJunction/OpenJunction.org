@@ -19,16 +19,17 @@ body,div,html,head,ul,li,h1,p{
     background-color: #e0e9f1;
     border-bottom: 1px solid #ffffff;
     width: 100%;
-    padding-top: 50px;
+    padding-top: 30px;
     padding-bottom: 30px;
-    height: 591px;
+    height: 650px;
 }
 
 #featureList{ 
     list-style-type: none;
     text-align: left;
-    width: 500px;
+    width: 600px;
     margin-left: 30px;
+    margin-top: 50px;
 }
 
 #featureList img{ 
@@ -58,15 +59,13 @@ body,div,html,head,ul,li,h1,p{
     border-bottom: 1px solid #ffffff;
 }
 
+#bottomContainer table{ 
+    width: 400px;
+}
+
 #tryButton, #learnButton { 
     position: absolute;
-    top: 856px;
-}
-#tryButton { 
-    left: 650px;
-}
-#learnButton { 
-    left: 860px;
+    top: 895px;
 }
 
 #logo { 
