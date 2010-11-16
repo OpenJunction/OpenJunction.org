@@ -1,4 +1,4 @@
-body,div,html,head,ul,li,h1{ 
+body,div,html,head,ul,li,h1,p{ 
     margin: 0px 0px 0px 0px;
     padding: 0px 0px 0px 0px;
 }
@@ -21,6 +21,7 @@ body,div,html,head,ul,li,h1{
     width: 100%;
     padding-top: 50px;
     padding-bottom: 30px;
+    height: 591px;
 }
 
 #featureList{ 
@@ -33,7 +34,7 @@ body,div,html,head,ul,li,h1{
 #featureList img{ 
     float: left;
     position: relative;
-    top: -10px;
+    top: 0px;
     margin-right: 20px;
 }
 
@@ -43,6 +44,11 @@ body,div,html,head,ul,li,h1{
 
 #featureList li b{ 
     font-size: 90%;
+}
+
+#featureList li p{ 
+    font-size: 90%;
+    color: #444444;
 }
 
 #bottomContainer{ 
