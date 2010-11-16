@@ -1,0 +1,72 @@
+body,div,html,head,ul,li,h1{ 
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+
+
+#topContainer{ 
+    width: 100%;
+    height: 200px;
+    background-color: #efefef;
+    border-bottom: 1px solid #c8dae8;
+}
+
+#topContainer h1{
+    size: 200%;
+    margin-top: 100px;
+}
+
+#centerContainer {
+    background-color: #e0e9f1;
+    border-bottom: 1px solid #ffffff;
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+#featureList{ 
+    list-style-type: none;
+    text-align: left;
+    width: 500px;
+    margin-left: 100px;
+}
+
+#featureList img{ 
+    float: left;
+    position: relative;
+    top: -10px;
+    margin-right: 20px;
+}
+
+#featureList li{ 
+    margin-bottom: 50px;
+}
+
+#featureList li b{ 
+    font-size: 90%;
+}
+
+#bottomContainer{ 
+    width: 100%;
+    height: 200px;
+    background-color: #efefef;
+    border-bottom: 1px solid #ffffff;
+}
+
+#tryButton, #learnButton { 
+    position: absolute;
+    top: 856px;
+}
+#tryButton { 
+    left: 620px;
+}
+#learnButton { 
+    left: 860px;
+}
+
+#logo { 
+    margin-top: 100px;
+}
+
+
