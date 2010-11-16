@@ -54,13 +54,13 @@ body,div,html,head,ul,li,h1{
 
 #tryButton, #learnButton { 
     position: absolute;
-    top: 856px;
+    top: 850px;
 }
 #tryButton { 
-    left: 650px;
+    left: 300px;
 }
 #learnButton { 
-    left: 860px;
+    left: 450px;
 }
 
 #logo { 
