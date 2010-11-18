@@ -3,6 +3,18 @@ body
     background: url('../assets/bg_repeat.png') top repeat-x;
 }
 
+#architecture {
+  clear:both;
+}
+#architectureText {
+  width:400px;
+  float:left;
+}
+
+#architectureImg {
+
+}
+
 #videoTable{ 
     margin-left: auto;
     margin-right: auto;
