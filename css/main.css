@@ -10,6 +10,25 @@ h2
 }
 
 
+#architecture {
+
+}
+
+#architectureFooter {
+  clear:both;
+}
+
+#architectureText {
+  width:400px;
+  padding-right:10px;
+  float:left;
+}
+
+#architectureImg {
+  margin-top:50px;
+  float:left;
+}
+
 #videoTable{ 
     margin-left: auto;
     margin-right: auto;
