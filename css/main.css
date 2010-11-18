@@ -3,12 +3,32 @@ body
     background: url('../assets/bg_repeat.png') top repeat-x;
 }
 
+
+h2
+{
+    margin-top: 40px;
+}
+
+
 #videoTable{ 
     margin-left: auto;
     margin-right: auto;
     margin-top: 30px;
-    margin-bottom: 50px;
 }
+
+#buttonTry,#buttonLearn{ 
+    position: absolute;
+    top: 200px;
+}
+
+#buttonTry{ 
+    left: 400px;
+}
+
+#buttonTry{ 
+    left: 500px;
+}
+
 
 .wrapper
 {
@@ -25,7 +45,7 @@ body
 {
     width: 880px;
     position: absolute;
-    top: 230px;
+    top: 250px;
     left: 50%;
     margin-left: -440px;
     font-family: arial;
