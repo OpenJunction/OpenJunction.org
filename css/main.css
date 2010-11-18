@@ -4,15 +4,22 @@ body
 }
 
 #architecture {
+
+}
+
+#architectureFooter {
   clear:both;
 }
+
 #architectureText {
   width:400px;
+  padding-right:10px;
   float:left;
 }
 
 #architectureImg {
-
+  margin-top:50px;
+  float:left;
 }
 
 #videoTable{ 
