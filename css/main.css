@@ -37,15 +37,19 @@ h2
 
 #buttonTry,#buttonLearn{ 
     position: absolute;
-    top: 200px;
+    top: -50px;
+}
+
+#buttonTry img,#buttonLearn img{ 
+    border: none;
 }
 
 #buttonTry{ 
-    left: 400px;
+    left: 640px;
 }
 
-#buttonTry{ 
-    left: 500px;
+#buttonLearn{ 
+    left: 770px;
 }
 
 
