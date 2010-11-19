@@ -41,7 +41,7 @@ img{
 
 #buttonTry,#buttonLearn{ 
     position: absolute;
-    top: -50px;
+    top: -100px;
 }
 
 #buttonTry{ 
@@ -49,7 +49,7 @@ img{
 }
 
 #buttonLearn{ 
-    left: 770px;
+    left: 780px;
 }
 
 
