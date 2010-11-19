@@ -9,24 +9,28 @@ h2
     margin-top: 40px;
 }
 
+img{ 
+    border: none;
+}
+
 
 #architecture {
 
 }
 
 #architectureFooter {
-  clear:both;
+    clear:both;
 }
 
 #architectureText {
-  width:400px;
-  padding-right:10px;
-  float:left;
+    width:400px;
+    padding-right:10px;
+    float:left;
 }
 
 #architectureImg {
-  margin-top:50px;
-  float:left;
+    margin-top:50px;
+    float:left;
 }
 
 #videoTable{ 
@@ -38,10 +42,6 @@ h2
 #buttonTry,#buttonLearn{ 
     position: absolute;
     top: -50px;
-}
-
-#buttonTry img,#buttonLearn img{ 
-    border: none;
 }
 
 #buttonTry{ 
