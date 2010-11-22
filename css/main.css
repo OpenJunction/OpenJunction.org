@@ -1,4 +1,4 @@
-body
+#mainBody
 {
     background: url('../assets/bg_repeat.png') top repeat-x;
 }
@@ -11,6 +11,18 @@ h2
 
 img{ 
     border: none;
+}
+
+#wb1{ 
+    margin-top: 50px;
+    width: 800px;
+    height: 800px;
+    float: left;
+}
+#wb2{ 
+    margin-top: 50px;
+    width: 800px;
+    height: 800px;
 }
 
 
