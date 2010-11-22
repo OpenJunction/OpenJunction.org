@@ -13,16 +13,14 @@ img{
     border: none;
 }
 
-#wb1{ 
+#wb1, #wb2{ 
     margin-top: 50px;
     width: 800px;
     height: 800px;
-    float: left;
 }
-#wb2{ 
-    margin-top: 50px;
-    width: 800px;
-    height: 800px;
+#wb1{ 
+    margin-right: 50px;
+    float: left;
 }
 
 
