@@ -13,15 +13,11 @@ img{
     border: none;
 }
 
-#wb1, #wb2{ 
+#wb1{ 
     margin-top: 50px;
     width: 800px;
     height: 800px;
 }
-#wb1{ 
-    float: left;
-}
-
 
 #architecture {
 
